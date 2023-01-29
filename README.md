@@ -1,5 +1,7 @@
 # 💫 About Me:
-Wordpress Developer for August 99 under Oqulo Team. Currently working on Wordpress<br>Custom Gutenberg Blocks and ReactJS.
+Wordpress Developer for August 99 under Oqulo Team. 
+Currently studying ReactJS, Flutter and React Native. 
+Improving my skills in Frontend Development! 
 
 
 ## 🌐 Socials:
