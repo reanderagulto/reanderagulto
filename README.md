@@ -1,7 +1,7 @@
 # 💫 About Me:
-Wordpress Developer for August 99 under Oqulo Team. 
-Currently studying ReactJS, Flutter and React Native. 
-Improving my skills in Frontend Development! 
+Wordpress Developer for August 99 under Oqulo Team. <br/>
+Currently studying ReactJS, Flutter and React Native. <br/>
+Improving my skills in Frontend Development! <br/>
 
 
 ## 🌐 Socials:
